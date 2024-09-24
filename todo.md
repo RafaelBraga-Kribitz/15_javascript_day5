@@ -26,7 +26,7 @@
 ### Intermediate Exercises
 
 - [x] **Exercise 1: Creating Classes**
-  - [xx] Extend from the previous exercise and create 3 different classes:
+  - [x] Extend from the previous exercise and create 3 different classes:
     - [x] **Car Class** with properties like name, brand, model, type, color, and weight.
     - [x] **Animal Class** with properties like name, type, color, and age.
     - [x] **Person Class** with properties like firstName, lastName, age, and occupation.
